@@ -2,7 +2,7 @@ function carregaVerses() {
     var poems = {
 
       bio01: {
-        nome: "Hegel E Eu",
+        nome: "Hegel and Me",
         imagem: "img/HegelEeu.png",
         descricao: "Hegel was a friend, who unfortunately died due to a degenerative disease.",
         citacao: "Memories stay, even when you're gone. Your happiness in life still remains. I so wanted to have you here again.",
