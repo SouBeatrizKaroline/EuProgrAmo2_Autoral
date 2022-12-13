@@ -30,7 +30,7 @@ function carregaVerses() {
       },
 
       bio05: {
-        nome: "Eu",
+        nome: "MySelf",
         imagem: "img/Eu.png",  
         descricao: "This photo is from graduation graduation photo day. A special day, because I am the first graduate of my family from a college.",
         citacao: "We are born without knowing who we are, but we already are. But throughout life we ​​change so much. What would become of us without being what we are?",
