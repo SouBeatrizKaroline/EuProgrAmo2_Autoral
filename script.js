@@ -25,7 +25,7 @@ function carregaVerses() {
       bio04: {
         nome: "My First Boyfriend",
         imagem: "img/Vitor.jpg",  
-        descricao: "My parents don't usually take a lot of pictures, especially together, but this one is from my mom's birthday, and I think it's really cute.",
+        descricao: "My current one, the first is unique, is called Vitor. He is my best friend, we started dating in 2021, and we are still together in 2022.",
         citacao: "You were the first to find the little key that I kept, that when I found you, I realized that it was of no use. Love will come, one hour or another, and I'm glad it came with you, my first boyfriend, but far beyond that, my best friend.",
       },
 
