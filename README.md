@@ -1,9 +1,3 @@
-﻿# Eu-ProgrAmo2-Projeto-Autoral
-
-## Projeto Autoral para o Eu ProgrAmo #2
-
-Feito com HTML, CSS e Javascript
-
 # Eu Progr{amo} Front-End #2
 
 ![preview](./img/readme/previa.png)
