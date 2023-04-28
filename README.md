@@ -6,7 +6,7 @@
 
 Projeto final, autoral, construido no final do curso
 
-[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/EuProgrAmo2_Autoral/)
+[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/EuProgrAmoFE2_Autoral/)
 
 ## 🛠 Tecnologias
 
